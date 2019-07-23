@@ -7,7 +7,7 @@
 + [C++] - Hide des drapeaux sur les npc.
 ```
 
-## - Defines / Système
+## - New Defines
 ```
 + #define NEW_PET_SYSTEM
 + #define ENABLE_ENERGY_SYSTEM
