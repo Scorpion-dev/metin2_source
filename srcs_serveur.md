@@ -7,8 +7,10 @@
 + [Fix] - Party dungeon
 + [Fix] - Header 100
 + [Fix] - Commande /war
-+ [Fix] - Injection SQL mesenger
++ [Fix] - Guild exploit fix
++ [Fix] - Guild comment flood mysql
 + [Fix] - DB fix startup error
++ [Fix] - Injection SQL mesenger
 + [Fix] - Activation de l'aura sans arme.
 + [Fix] - Duplication des pierres lorsque équipée.
 + [Fix] - Points de vie négatif.
