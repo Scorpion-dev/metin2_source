@@ -22,11 +22,12 @@
 
 ## - Defines / Système
 ```
-+ #define WEAPON_COSTUME_SYSTEM
 + #define 7AND8TH_SKILL
++ #define NEW_PET_SYSTEM
++ #define WEAPON_COSTUME_SYSTEM
 + #define VIEW_TARGET_PLAYER_HP
 + #define VIEW_TARGET_DECIMAL_HP
-+ #define NEW_PET_SYSTEM
++ #define ANTI_RESIST_MAGIC_BONUS
 ```
 
 ## - Ajout & Modification
