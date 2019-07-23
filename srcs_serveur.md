@@ -19,6 +19,7 @@
 + [Fix] - Duplication des pierres lorsque équipée.
 + [Fix] - SEQUENCE mismatch 0xaf != 0x64 header 254
 + [Fix] - Changement d'équipement avec l'inventaire plein
++ [Fix] - mysql_query error: Column 'name' in field list is ambiguous
 + [Fix] - Phase Game does not handle this header (header: 81, last: 45, 81)
 ```
 
