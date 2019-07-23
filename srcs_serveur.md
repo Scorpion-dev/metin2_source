@@ -27,6 +27,7 @@
 ```
 + #define 7AND8TH_SKILL
 + #define NEW_PET_SYSTEM
++ #define PARTY_BUFF_SYSTEM
 + #define COSTUME_ATTR_TRANSFER
 + #define WEAPON_COSTUME_SYSTEM
 + #define VIEW_TARGET_PLAYER_HP
