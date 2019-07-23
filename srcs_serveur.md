@@ -14,6 +14,7 @@
 + [Fix] - Header 100
 + [Fix] - Commande /war
 + [Fix] - Injection SQL mesenger
++ [Fix] - DB fix startup error
 ```
 
 ## - Modification / Système
