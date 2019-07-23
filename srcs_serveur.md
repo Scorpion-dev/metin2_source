@@ -29,7 +29,7 @@
 + #define NEW_PET_SYSTEM
 ```
 
-## - Modification / Système
+## - Ajout & Modification
 ```
 + [C++] - Détruire un Item
 + [C++] - Bar & Decimal Target HP.
