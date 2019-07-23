@@ -8,8 +8,9 @@
 + [Fix] - Header 100
 + [Fix] - Commande /war
 + [Fix] - Guild exploit fix
-+ [Fix] - Guild comment flood mysql
++ [Fix] - Cube core crasher
 + [Fix] - DB fix startup error
++ [Fix] - Guild comment flood mysql
 + [Fix] - Injection SQL mesenger
 + [Fix] - Activation de l'aura sans arme.
 + [Fix] - Duplication des pierres lorsque équipée.
