@@ -35,7 +35,7 @@
 
 ## - Ajout & Modification
 ```
-+ [C++] - Détruire un Item
++ [C++] - Détruire un item
 + [C++] - Bar & Decimal Target HP.
 + [C++] - Joueurs en ligne sous la minimap.
 + [C++] - Système d'effet (armures, costumes).py
