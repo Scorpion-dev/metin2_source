@@ -10,6 +10,10 @@
 + [Fix] - Changement d'équipement avec l'inventaire plein
 + [Fix] - Sysser motions
 + [Fix] - Guild exploit fix
++ [Fix] - Party dungeon
++ [Fix] - Header 100
++ [Fix] - Commande /war
++ [Fix] - Injection SQL mesenger
 ```
 
 ## - Modification / Système
