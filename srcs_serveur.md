@@ -38,4 +38,5 @@
 + [C++] - Maximum des membres dans un groupe: 16
 + [C++] - Désactivation du temps lors d'une création et supression d'une guilde.
 + [C++] - Désactivation des bonus 6/7 sur le costume.
++ [C++] - Ajouter n'importe quel nombre de points statistiques avec hud
 ```
