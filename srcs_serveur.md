@@ -1,5 +1,5 @@
 
-## - Modification / Fix
+## - All Fix
 ```
 + [Fix] - P2P
 + [Fix] - Sysser motions
@@ -23,7 +23,7 @@
 + [Fix] - Phase Game does not handle this header (header: 81, last: 45, 81)
 ```
 
-## - New Defines / Système
+## - New Defines
 ```
 + #define 7AND8TH_SKILL
 + #define NEW_PET_SYSTEM
