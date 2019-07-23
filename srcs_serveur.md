@@ -41,10 +41,6 @@
 + [C++] - Bar & Decimal Target HP.
 + [C++] - Joueurs en ligne sous la minimap.
 + [C++] - Système d'effet (armures, costumes).py
-```
-
-## - Modification / Ajouts
-```
 + [C++] - Potion rouge, bleu, verte, violette: illimités
 + [C++] - Affichage des objets dans le chat sans loupe magique.
 + [C++] - Afficher les metins sur la minimap
