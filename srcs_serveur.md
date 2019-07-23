@@ -35,6 +35,7 @@
 
 ## - Ajout & Modification
 ```
++ [C++] - Level max: 255
 + [C++] - Détruire un item
 + [C++] - Bar & Decimal Target HP.
 + [C++] - Joueurs en ligne sous la minimap.
