@@ -1,4 +1,3 @@
-## - Source Serveur
 ```
 - [C++] - Potion rouge, bleu, verte, violette: illimités
 - [C++] - Affichage des objets dans le chat sans loupe magique.
