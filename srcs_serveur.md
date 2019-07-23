@@ -20,7 +20,7 @@
 + [Fix] - Changement d'équipement avec l'inventaire plein
 ```
 
-## - Define / Système
+## - Defines / Système
 ```
 + #define WEAPON_COSTUME_SYSTEM
 + #define 7AND8TH_SKILL
