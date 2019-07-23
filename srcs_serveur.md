@@ -39,15 +39,15 @@
 + [C++] - Level max: 255
 + [C++] - Détruire un item
 + [C++] - Bar & Decimal Target HP.
++ [C++] - Activation du changement de nom.
 + [C++] - Joueurs en ligne sous la minimap.
-+ [C++] - Système d'effet (armures, costumes).py
-+ [C++] - Potion rouge, bleu, verte, violette: illimités
-+ [C++] - Affichage des objets dans le chat sans loupe magique.
 + [C++] - Afficher les metins sur la minimap
 + [C++] - Activation des émotions sans masque.
-+ [C++] - Activation du changement de nom.
 + [C++] - Maximum des membres dans un groupe: 16
-+ [C++] - Désactivation du temps lors d'une création et supression d'une guilde.
++ [C++] - Système d'effet (armures, costumes).py
 + [C++] - Désactivation des bonus 6/7 sur le costume.
++ [C++] - Potion rouge, bleu, verte, violette: illimités
++ [C++] - Affichage des objets dans le chat sans loupe magique.
 + [C++] - Ajouter n'importe quel nombre de points statistiques avec hud
++ [C++] - Désactivation du temps lors d'une création et supression d'une guilde.
 ```
