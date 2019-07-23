@@ -9,16 +9,17 @@
 + [Fix] - Commande /war
 + [Fix] - Guild exploit fix
 + [Fix] - Cube core crasher
++ [Fix] - Armes echantée sura
 + [Fix] - DB fix startup error
-+ [Fix] - Guild comment flood mysql
++ [Fix] - Points de vie négatif.
 + [Fix] - Injection SQL mesenger
++ [Fix] - Guild comment flood mysql
++ [Fix] - Supression des personnages
 + [Fix] - Activation de l'aura sans arme.
 + [Fix] - Duplication des pierres lorsque équipée.
-+ [Fix] - Points de vie négatif.
-+ [Fix] - Armes echantée sura
-+ [Fix] - Phase Game does not handle this header (header: 81, last: 45, 81)
 + [Fix] - SEQUENCE mismatch 0xaf != 0x64 header 254
 + [Fix] - Changement d'équipement avec l'inventaire plein
++ [Fix] - Phase Game does not handle this header (header: 81, last: 45, 81)
 ```
 
 ## - Defines / Système
