@@ -23,7 +23,7 @@
 + [Fix] - Phase Game does not handle this header (header: 81, last: 45, 81)
 ```
 
-## - Defines / Système
+## - New Defines / Système
 ```
 + #define 7AND8TH_SKILL
 + #define NEW_PET_SYSTEM
