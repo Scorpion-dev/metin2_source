@@ -1,6 +1,6 @@
 
-```
 ## - Modification / Fix
+```
 + [Fix] - Activation de l'aura sans arme.
 + [Fix] - Duplication des pierres lorsque équipée.
 + [Fix] - Points de vie négatif.
@@ -12,8 +12,8 @@
 + [Fix] - Guild exploit fix
 ```
 
-```
 ## - Modification / Système
+```
 + [C++] - Étoles
 + [C++] - Ceintures
 + [C++] - Pets officiel
@@ -23,8 +23,8 @@
 + [C++] - Système d'effet (armures, costumes).py
 ```
 
-```
 ## - Modification / Ajouts
+```
 + [C++] - Potion rouge, bleu, verte, violette: illimités
 + [C++] - Affichage des objets dans le chat sans loupe magique.
 + [C++] - Afficher les metins sur la minimap
