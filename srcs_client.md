@@ -1,6 +1,8 @@
-## - Source client
 
+## - Modificatin / Source client
 ```
-- [C++] - Augmentation de la vitesse du text dans les quêtes.
-- [C++] - Hide des drapeaux sur les npc.
++ [C++] - Python 2.7
++ [C++] - Granny 2.9
++ [C++] - Augmentation de la vitesse du text dans les quêtes.
++ [C++] - Hide des drapeaux sur les npc.
 ```
