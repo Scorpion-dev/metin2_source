@@ -31,6 +31,7 @@
 + #define VIEW_TARGET_PLAYER_HP
 + #define VIEW_TARGET_DECIMAL_HP
 + #define ANTI_RESIST_MAGIC_BONUS
++ #define ENABLE_IGNORE_LOWER_BUFFS
 ```
 
 ## - Ajout & Modification
