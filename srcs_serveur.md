@@ -20,11 +20,17 @@
 + [Fix] - Changement d'équipement avec l'inventaire plein
 ```
 
+## - Define / Système
+```
++ #define WEAPON_COSTUME_SYSTEM
++ #define 7AND8TH_SKILL
++ #define VIEW_TARGET_PLAYER_HP
++ #define VIEW_TARGET_DECIMAL_HP
++ #define NEW_PET_SYSTEM
+```
+
 ## - Modification / Système
 ```
-+ [C++] - Étoles
-+ [C++] - Ceintures
-+ [C++] - Pets officiel
 + [C++] - Détruire un Item
 + [C++] - Bar & Decimal Target HP.
 + [C++] - Joueurs en ligne sous la minimap.
