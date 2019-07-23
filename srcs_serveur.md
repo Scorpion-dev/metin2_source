@@ -3,7 +3,7 @@
 ```
 + [Fix] - P2P
 + [Fix] - Sysser motions
-+ [Fix] - Guild exploit fix
++ [Fix] - Adminpage exploit
 + [Fix] - Party dungeon
 + [Fix] - Header 100
 + [Fix] - Commande /war
